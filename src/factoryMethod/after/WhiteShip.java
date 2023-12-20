@@ -1,7 +1,7 @@
 package factoryMethod.after;
 
 public class WhiteShip extends Ship{
-    WhiteShip() {
+    public WhiteShip() {
         setName("whiteShip");
         setColor("white");
         setLogo("whiteLogo");
