@@ -1,8 +1,7 @@
-package factoryMethod.after;
+package creational_patterns.factoryMethod.after;
 
-import AbstractFacotryMethod.after.Anchor;
-import AbstractFacotryMethod.after.Wheel;
-import AbstractFacotryMethod.before.WhiteAnchor;
+import creational_patterns.AbstractFacotryMethod.after.Anchor;
+import creational_patterns.AbstractFacotryMethod.after.Wheel;
 
 public class Ship {
 
